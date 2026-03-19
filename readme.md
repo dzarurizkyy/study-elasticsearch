@@ -211,7 +211,7 @@ This repository contains a practical guide to learn Elasticsearch from installat
   ```
 
 ## 📍 References
-* [Udemy](https://www.udemy.com/user/eko-kurniawan)
+* [Udemy](https://www.udemy.com/course/belajar-elasticsearch)
 
 ## 👨‍💻 Contributors
 * [Dzaru Rizky Fathan Fortuna](https://www.linkedin.com/in/dzarurizky)
