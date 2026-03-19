@@ -52,7 +52,7 @@ Elasticsearch is a **RESTful API-based database management system** designed for
 
   Download Elasticsearch in **Archive File** format from the official page:
   
-  > https://www.elastic.co/elasticsearch/
+  > https://www.elastic.co/downloads/elasticsearch
 
 - #### Configuration
 
